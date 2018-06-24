@@ -1,0 +1,6 @@
+# Istanbul
+.nyc_output/
+coverage/
+
+# Dependencies
+node_modules/

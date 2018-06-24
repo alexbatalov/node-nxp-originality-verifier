@@ -1,0 +1,22 @@
+{
+  "name": "nxp-originality-verifier",
+  "version": "0.1.0",
+  "description": "Verify NXP Originality Signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbatalov/node-nxp-originality-verifier.git"
+  },
+  "author": "Alexander Batalov <alex.batalov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "elliptic": "^6.4.0",
+    "hash.js": "^1.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
